@@ -9,4 +9,4 @@ Atom posititions after application of a trained classifier and the sliding windo
 ![GitHub Logo](/atom_positions.png "Atom positions obtained")
 
 Trajectories generated from Atom positions:
-![GitHub Logo](/atom_positions.png "Trajectories generated")
+![GitHub Logo](/atom_trajectories.png "Trajectories generated")
